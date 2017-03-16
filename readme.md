@@ -1,19 +1,16 @@
-#DrMario#
+# DrMario
 
-*An incomplete (but playable) re-creation of the classic NES game written 16+ years ago while learning game programming.*
+*A playable re-creation of the classic NES game, written 16+ years ago while learning game programming.*
 
 ![Dr.Mario title screen](Screenshots/drmario-title.png)
 
 
-##Background##
+## Background
 This is an old project I wrote in the late 90's when I was learning game programming and C.
 
-Back when I was learning game programming I would seldom finish anything. I would
-have all kind of ideas for a game, and I could never quite finish it because I would always get side tracked with new ideas and didn't have much discipline. For example I created a vertical scroller at 50 fps, with spaceships using sprite hardware, etc. for a  shoot em up on the Amiga... and never made a game out of it.
+Back then I realized that *completing* a project was the most difficult task for me. I had this idea of copying an existing NES game that way I would have a ready-made "design document", and I could focus entirely on writing something from start to finish which was a big challenge in and of itself.
 
-So eventually I got this idea of copying an existing game as an exercise in writing a game from start to finish. That way I would not be distracted by new ideas and I could focus entirely on the challenge of writing the game.
-
-There was no intention to actually "port" the game over to the PC. There was NO intention to distribute it or profit from it, or even confuse anybody. Almost nobody saw it or played it besides a few of my friends. And of course today there are emulators readily available to play the classic NES game on a PC, so making "port" of the NES game would be totally pointless.
+There was no intention to "port" the game, to distribute it or profit from it, or even confuse anybody. Almost nobody saw it or played it besides a few of my friends. And of course today there are emulators readily available to play the classic NES game on a PC, so making "port" of the NES game would be totally pointless.
 
 **Why github?** I wrote this 16+ years ago, and I thought I'd upload it as it could be my last backup! It's fun to look back at old code, and the comments I wrote. It's probably not a good idea to modify or build on it though.
 
@@ -21,7 +18,7 @@ There was no intention to actually "port" the game over to the PC. There was NO 
 ![Dr.Mario title screen](Screenshots/drmario-oneplayer.png)
 
 
-##DISCLAIMER##
+## DISCLAIMER
 
 The game is NOT representative of the classic title from Nintendo. It is just my interpretation
 from playing the original on an NES. Much of the timing was simply "eye balled". I literally just
@@ -56,7 +53,7 @@ writing this in Sept 2016).
 
 
 
-##Executable version##
+## Executable version
 
 A working version is found in the Release/ folder. The game is 269 KB. The WAD file (a resource
 file containing the sprites, and sound waves) is 329 KB. The WAD file can be opened and browsed
@@ -69,7 +66,7 @@ the "Double size" option. The "Fullscreen" option may or may not work.
 Next is the README.txt from 16 years ago...
 
 
-##README.txt##
+## README.txt
 
 (a basic documentation wrote in 1998-1999 with some light Markdown editing)
 
